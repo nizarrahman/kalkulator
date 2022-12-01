@@ -56,3 +56,12 @@ body {
 	border-radius: 25px;
 	text-align: right;
 }
+#footer .copyright {
+	text-align: center;
+}
+#footer .credits {
+	padding-top: 5px;
+	text-align: center;
+	font-size: 13px;
+	color: #eaebf0;
+  }
